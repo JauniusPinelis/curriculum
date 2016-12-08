@@ -529,3 +529,4 @@ If you get totally stuck, solutions from other students are listed below.  I'd e
 * [Yash Anand's Solution](https://github.com/yashanand1910/sketchpad) | [View in Browser]
 (https://yashanand1910.github.io/sketchpad/)
 * [egg303's Solution](https://github.com/egg303/div-matrix) | [View In Browser](https://egg303.github.io/div-matrix/)
+* [Jaunius Pinelis's Solution](https://github.com/JauniusPinelis/Jquery-Sketch) | [View In Browser](https://cdn.rawgit.com/JauniusPinelis/Jquery-Sketch/master/index.html)
